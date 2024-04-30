@@ -3,3 +3,4 @@
 [(netquel.com)]
 (google.com)
 [google.com]
+[google](https://google.com)
